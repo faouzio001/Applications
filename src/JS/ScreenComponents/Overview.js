@@ -1,5 +1,5 @@
 /*
-Created by Oualid Faouzi
+Created by Oualid Faouzi for Web Application
 This component is responsible for rendering the overview of the registered invoice data.
 
 NOTE: Session storage is used to store sensitive information about the user.

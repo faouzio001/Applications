@@ -1,5 +1,5 @@
 /*
-Created by Oualid Faouzi
+Created by Oualid Faouzi for Web Application
 
 NOTE: Session storage is used to store sensitive information about the user.
 Session storage was NOT designed to be used as a secured storage mechanism in a browser.

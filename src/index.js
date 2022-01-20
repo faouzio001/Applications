@@ -1,5 +1,5 @@
 /*
-Created by Oualid Faouzi
+Created by Oualid Faouzi for Web Application
 */
 import React from 'react';
 import ReactDOM from 'react-dom';
